@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
   # website Link
-    https://nikec1clone.netlify.app/#about-us
+    https://weatherappcrosssite.netlify.app/
